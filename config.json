@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchvecrypt",
+        "uuid": 13840417,
+        "checksum": "7tteqs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
